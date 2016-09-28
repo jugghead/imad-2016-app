@@ -4,5 +4,5 @@ console.log('Loaded!');
 
 var img = document.getElementById('madi');
 img.onClick = function() {
-    img.style.marginleft= '1000px';
+    img.style.marginleft='1000px';
 };
